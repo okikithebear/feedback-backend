@@ -1,0 +1,8 @@
+# Node.js build artifacts
+node_modules/
+dist/
+build/
+*.log
+
+# Environment variables file (should not be committed)
+.env
